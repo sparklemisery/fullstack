@@ -1,0 +1,11 @@
+.trung {
+  color: rgb(31, 233, 102);
+  display: flex;
+}
+
+.trung button {
+  display: block;
+  border-radius: 10%;
+  background-color: aqua;
+
+}
